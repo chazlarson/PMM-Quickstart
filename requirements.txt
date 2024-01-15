@@ -1,0 +1,8 @@
+requests
+plexapi
+tmdbapis
+click
+lxml
+pyyaml
+arrapi
+python-dotenv==0.21.0
