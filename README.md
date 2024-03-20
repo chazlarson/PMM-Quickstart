@@ -1,6 +1,8 @@
 # PMM-quickstart
 quickstart script for building a basic config for PMM
 
+INCOMPLETE AND WORK IN PROGRESS
+
 ## if you use [`direnv`](https://github.com/direnv/direnv):
 1. clone the repo
 1. cd into the repo dir
