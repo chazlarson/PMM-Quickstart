@@ -5,7 +5,7 @@ quickstart script for building a basic config for PMM
 1. clone the repo
 1. cd into the repo dir
 1. run `direnv allow` as the prompt will tell you to
-1. direnv will build the vitrual env and keep requirements up to date
+1. direnv will build the virtual env and keep requirements up to date
 
 ## if you don't use [`direnv`](https://github.com/direnv/direnv):
 1. install direnv
